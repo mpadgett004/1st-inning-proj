@@ -1,4 +1,8 @@
 Sub FinalizedCode()
+Cells(9, 8).Value = "Total O/U Record"
+Cells(9, 9).Value = "Away O/U Record"
+Cells(9, 10).Value = "Home O/U Record"
+
 Dim LastRow As Long
 LastRow = Cells(Rows.Count, "A").End(xlUp).Row
 Dim z As Integer
