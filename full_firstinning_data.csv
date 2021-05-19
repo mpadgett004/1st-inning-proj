@@ -1,0 +1,599 @@
+date,away_team,away_1st_inn,home_team,home_1st_inn
+"Thursday, April 1, 2021",Toronto Blue Jays,0,New York Yankees,0
+"Thursday, April 1, 2021",Cleveland Indians,0,Detroit Tigers,2
+"Thursday, April 1, 2021",Minnesota Twins,0,Milwaukee Brewers,0
+"Thursday, April 1, 2021",Pittsburgh Pirates,2,Chicago Cubs,1
+"Thursday, April 1, 2021",Atlanta Braves,0,Philadelphia Phillies,1
+"Thursday, April 1, 2021",St. Louis Cardinals,6,Cincinnati Reds,1
+"Thursday, April 1, 2021",Los Angeles Dodgers,0,Colorado Rockies,0
+"Thursday, April 1, 2021",Texas Rangers,5,Kansas City Royals,5
+"Thursday, April 1, 2021",Tampa Bay Rays,0,Miami Marlins,0
+"Thursday, April 1, 2021",Arizona Diamondbacks,1,San Diego Padres,0
+"Thursday, April 1, 2021",Chicago White Sox,0,Los Angeles Angels,0
+"Thursday, April 1, 2021",Houston Astros,0,Oakland Athletics,0
+"Thursday, April 1, 2021",San Francisco Giants,0,Seattle Mariners,0
+"Friday, April 2, 2021",Baltimore Orioles,0,Boston Red Sox,0
+"Friday, April 2, 2021",Tampa Bay Rays,0,Miami Marlins,0
+"Friday, April 2, 2021",Los Angeles Dodgers,2,Colorado Rockies,0
+"Friday, April 2, 2021",Chicago White Sox,0,Los Angeles Angels,1
+"Friday, April 2, 2021",Houston Astros,0,Oakland Athletics,0
+"Friday, April 2, 2021",Arizona Diamondbacks,0,San Diego Padres,0
+"Friday, April 2, 2021",San Francisco Giants,0,Seattle Mariners,0
+"Saturday, April 3, 2021",Toronto Blue Jays,0,New York Yankees,0
+"Saturday, April 3, 2021",Baltimore Orioles,0,Boston Red Sox,0
+"Saturday, April 3, 2021",Cleveland Indians,0,Detroit Tigers,2
+"Saturday, April 3, 2021",Texas Rangers,2,Kansas City Royals,0
+"Saturday, April 3, 2021",Pittsburgh Pirates,1,Chicago Cubs,0
+"Saturday, April 3, 2021",Atlanta Braves,0,Philadelphia Phillies,0
+"Saturday, April 3, 2021",Houston Astros,1,Oakland Athletics,1
+"Saturday, April 3, 2021",St. Louis Cardinals,0,Cincinnati Reds,0
+"Saturday, April 3, 2021",Tampa Bay Rays,0,Miami Marlins,1
+"Saturday, April 3, 2021",Minnesota Twins,0,Milwaukee Brewers,0
+"Saturday, April 3, 2021",Los Angeles Dodgers,0,Colorado Rockies,0
+"Saturday, April 3, 2021",Arizona Diamondbacks,0,San Diego Padres,2
+"Saturday, April 3, 2021",Chicago White Sox,0,Los Angeles Angels,0
+"Saturday, April 3, 2021",San Francisco Giants,0,Seattle Mariners,0
+"Sunday, April 4, 2021",Toronto Blue Jays,0,New York Yankees,0
+"Sunday, April 4, 2021",Atlanta Braves,0,Philadelphia Phillies,0
+"Sunday, April 4, 2021",Baltimore Orioles,3,Boston Red Sox,0
+"Sunday, April 4, 2021",St. Louis Cardinals,0,Cincinnati Reds,0
+"Sunday, April 4, 2021",Cleveland Indians,1,Detroit Tigers,2
+"Sunday, April 4, 2021",Texas Rangers,0,Kansas City Royals,0
+"Sunday, April 4, 2021",Minnesota Twins,1,Milwaukee Brewers,0
+"Sunday, April 4, 2021",Pittsburgh Pirates,0,Chicago Cubs,2
+"Sunday, April 4, 2021",Los Angeles Dodgers,3,Colorado Rockies,0
+"Sunday, April 4, 2021",Houston Astros,1,Oakland Athletics,1
+"Sunday, April 4, 2021",Arizona Diamondbacks,2,San Diego Padres,0
+"Sunday, April 4, 2021",Chicago White Sox,0,Los Angeles Angels,2
+"Monday, April 5, 2021",Minnesota Twins,1,Detroit Tigers,0
+"Monday, April 5, 2021",Toronto Blue Jays,1,Texas Rangers,0
+"Monday, April 5, 2021",Kansas City Royals,0,Cleveland Indians,0
+"Monday, April 5, 2021",Baltimore Orioles,0,New York Yankees,0
+"Monday, April 5, 2021",Pittsburgh Pirates,2,Cincinnati Reds,0
+"Monday, April 5, 2021",St. Louis Cardinals,3,Miami Marlins,0
+"Monday, April 5, 2021",New York Mets,0,Philadelphia Phillies,0
+"Monday, April 5, 2021",Tampa Bay Rays,0,Boston Red Sox,0
+"Monday, April 5, 2021",Milwaukee Brewers,0,Chicago Cubs,0
+"Monday, April 5, 2021",Houston Astros,3,Los Angeles Angels,0
+"Monday, April 5, 2021",Los Angeles Dodgers,0,Oakland Athletics,0
+"Monday, April 5, 2021",San Francisco Giants,0,San Diego Padres,0
+"Monday, April 5, 2021",Chicago White Sox,0,Seattle Mariners,0
+"Tuesday, April 6, 2021",Minnesota Twins,0,Detroit Tigers,0
+"Tuesday, April 6, 2021",Atlanta Braves,2,Washington Nationals,0
+"Tuesday, April 6, 2021",Houston Astros,0,Los Angeles Angels,2
+"Tuesday, April 6, 2021",Baltimore Orioles,0,New York Yankees,0
+"Tuesday, April 6, 2021",Pittsburgh Pirates,0,Cincinnati Reds,1
+"Tuesday, April 6, 2021",St. Louis Cardinals,0,Miami Marlins,1
+"Tuesday, April 6, 2021",New York Mets,0,Philadelphia Phillies,0
+"Tuesday, April 6, 2021",Tampa Bay Rays,0,Boston Red Sox,1
+"Tuesday, April 6, 2021",Milwaukee Brewers,3,Chicago Cubs,0
+"Tuesday, April 6, 2021",Toronto Blue Jays,1,Texas Rangers,2
+"Tuesday, April 6, 2021",Arizona Diamondbacks,0,Colorado Rockies,0
+"Tuesday, April 6, 2021",Los Angeles Dodgers,0,Oakland Athletics,1
+"Tuesday, April 6, 2021",San Francisco Giants,0,San Diego Padres,0
+"Tuesday, April 6, 2021",Chicago White Sox,0,Seattle Mariners,0
+"Wednesday, April 7, 2021",Atlanta Braves,0,Washington Nationals,0
+"Wednesday, April 7, 2021",Tampa Bay Rays,0,Boston Red Sox,0
+"Wednesday, April 7, 2021",Kansas City Royals,0,Cleveland Indians,0
+"Wednesday, April 7, 2021",Minnesota Twins,0,Detroit Tigers,0
+"Wednesday, April 7, 2021",Toronto Blue Jays,0,Texas Rangers,0
+"Wednesday, April 7, 2021",Milwaukee Brewers,0,Chicago Cubs,0
+"Wednesday, April 7, 2021",Los Angeles Dodgers,1,Oakland Athletics,0
+"Wednesday, April 7, 2021",New York Mets,0,Philadelphia Phillies,4
+"Wednesday, April 7, 2021",St. Louis Cardinals,0,Miami Marlins,0
+"Wednesday, April 7, 2021",San Francisco Giants,0,San Diego Padres,0
+"Wednesday, April 7, 2021",Chicago White Sox,0,Seattle Mariners,0
+"Wednesday, April 7, 2021",Baltimore Orioles,0,New York Yankees,0
+"Wednesday, April 7, 2021",Arizona Diamondbacks,0,Colorado Rockies,1
+"Wednesday, April 7, 2021",Atlanta Braves,1,Washington Nationals,4
+"Wednesday, April 7, 2021",Pittsburgh Pirates,0,Cincinnati Reds,5
+"Thursday, April 8, 2021",Miami Marlins,0,New York Mets,0
+"Thursday, April 8, 2021",Chicago Cubs,1,Pittsburgh Pirates,0
+"Thursday, April 8, 2021",Boston Red Sox,2,Baltimore Orioles,2
+"Thursday, April 8, 2021",Arizona Diamondbacks,0,Colorado Rockies,3
+"Thursday, April 8, 2021",Kansas City Royals,0,Chicago White Sox,3
+"Thursday, April 8, 2021",Seattle Mariners,0,Minnesota Twins,0
+"Thursday, April 8, 2021",Milwaukee Brewers,0,St. Louis Cardinals,0
+"Thursday, April 8, 2021",Los Angeles Angels,1,Toronto Blue Jays,3
+"Thursday, April 8, 2021",Oakland Athletics,0,Houston Astros,0
+"Friday, April 9, 2021",New York Yankees,0,Tampa Bay Rays,0
+"Friday, April 9, 2021",Washington Nationals,0,Los Angeles Dodgers,0
+"Friday, April 9, 2021",Colorado Rockies,0,San Francisco Giants,0
+"Friday, April 9, 2021",Los Angeles Angels,0,Toronto Blue Jays,0
+"Friday, April 9, 2021",Detroit Tigers,0,Cleveland Indians,3
+"Friday, April 9, 2021",Philadelphia Phillies,0,Atlanta Braves,0
+"Friday, April 9, 2021",San Diego Padres,0,Texas Rangers,0
+"Friday, April 9, 2021",Oakland Athletics,0,Houston Astros,0
+"Friday, April 9, 2021",Cincinnati Reds,0,Arizona Diamondbacks,0
+"Saturday, April 10, 2021",Miami Marlins,0,New York Mets,0
+"Saturday, April 10, 2021",New York Yankees,0,Tampa Bay Rays,1
+"Saturday, April 10, 2021",Seattle Mariners,0,Minnesota Twins,0
+"Saturday, April 10, 2021",Milwaukee Brewers,1,St. Louis Cardinals,0
+"Saturday, April 10, 2021",Oakland Athletics,0,Houston Astros,0
+"Saturday, April 10, 2021",Colorado Rockies,0,San Francisco Giants,0
+"Saturday, April 10, 2021",Detroit Tigers,0,Cleveland Indians,0
+"Saturday, April 10, 2021",Chicago Cubs,1,Pittsburgh Pirates,0
+"Saturday, April 10, 2021",Boston Red Sox,2,Baltimore Orioles,2
+"Saturday, April 10, 2021",San Diego Padres,0,Texas Rangers,0
+"Saturday, April 10, 2021",Los Angeles Angels,0,Toronto Blue Jays,0
+"Saturday, April 10, 2021",Philadelphia Phillies,2,Atlanta Braves,3
+"Saturday, April 10, 2021",Cincinnati Reds,0,Arizona Diamondbacks,0
+"Saturday, April 10, 2021",Washington Nationals,1,Los Angeles Dodgers,0
+"Sunday, April 11, 2021",Boston Red Sox,0,Baltimore Orioles,0
+"Sunday, April 11, 2021",Chicago Cubs,0,Pittsburgh Pirates,0
+"Sunday, April 11, 2021",Detroit Tigers,1,Cleveland Indians,0
+"Sunday, April 11, 2021",New York Yankees,0,Tampa Bay Rays,0
+"Sunday, April 11, 2021",Kansas City Royals,0,Chicago White Sox,0
+"Sunday, April 11, 2021",Seattle Mariners,0,Minnesota Twins,1
+"Sunday, April 11, 2021",Milwaukee Brewers,4,St. Louis Cardinals,0
+"Sunday, April 11, 2021",San Diego Padres,0,Texas Rangers,0
+"Sunday, April 11, 2021",Colorado Rockies,0,San Francisco Giants,2
+"Sunday, April 11, 2021",Cincinnati Reds,0,Arizona Diamondbacks,0
+"Sunday, April 11, 2021",Washington Nationals,0,Los Angeles Dodgers,0
+"Sunday, April 11, 2021",Philadelphia Phillies,0,Atlanta Braves,3
+"Monday, April 12, 2021",San Diego Padres,1,Pittsburgh Pirates,0
+"Monday, April 12, 2021",New York Yankees,0,Toronto Blue Jays,1
+"Monday, April 12, 2021",Texas Rangers,0,Tampa Bay Rays,0
+"Monday, April 12, 2021",Miami Marlins,0,Atlanta Braves,1
+"Monday, April 12, 2021",Chicago Cubs,0,Milwaukee Brewers,0
+"Monday, April 12, 2021",Washington Nationals,1,St. Louis Cardinals,0
+"Monday, April 12, 2021",Cleveland Indians,0,Chicago White Sox,0
+"Monday, April 12, 2021",Detroit Tigers,0,Houston Astros,0
+"Monday, April 12, 2021",Los Angeles Angels,0,Kansas City Royals,0
+"Monday, April 12, 2021",Oakland Athletics,1,Arizona Diamondbacks,0
+"Monday, April 12, 2021",Cincinnati Reds,0,San Francisco Giants,0
+"Tuesday, April 13, 2021",Seattle Mariners,0,Baltimore Orioles,0
+"Tuesday, April 13, 2021",Philadelphia Phillies,0,New York Mets,0
+"Tuesday, April 13, 2021",Boston Red Sox,0,Minnesota Twins,2
+"Tuesday, April 13, 2021",Oakland Athletics,0,Arizona Diamondbacks,0
+"Tuesday, April 13, 2021",Seattle Mariners,1,Baltimore Orioles,0
+"Tuesday, April 13, 2021",Philadelphia Phillies,0,New York Mets,2
+"Tuesday, April 13, 2021",San Diego Padres,2,Pittsburgh Pirates,3
+"Tuesday, April 13, 2021",New York Yankees,0,Toronto Blue Jays,0
+"Tuesday, April 13, 2021",Texas Rangers,1,Tampa Bay Rays,2
+"Tuesday, April 13, 2021",Miami Marlins,0,Atlanta Braves,3
+"Tuesday, April 13, 2021",Chicago Cubs,0,Milwaukee Brewers,0
+"Tuesday, April 13, 2021",Washington Nationals,0,St. Louis Cardinals,1
+"Tuesday, April 13, 2021",Cleveland Indians,0,Chicago White Sox,0
+"Tuesday, April 13, 2021",Detroit Tigers,0,Houston Astros,0
+"Tuesday, April 13, 2021",Los Angeles Angels,0,Kansas City Royals,1
+"Tuesday, April 13, 2021",Cincinnati Reds,4,San Francisco Giants,4
+"Tuesday, April 13, 2021",Colorado Rockies,0,Los Angeles Dodgers,2
+"Wednesday, April 14, 2021",Boston Red Sox,0,Minnesota Twins,1
+"Wednesday, April 14, 2021",New York Yankees,1,Toronto Blue Jays,0
+"Wednesday, April 14, 2021",Washington Nationals,0,St. Louis Cardinals,0
+"Wednesday, April 14, 2021",Chicago Cubs,0,Milwaukee Brewers,2
+"Wednesday, April 14, 2021",Los Angeles Angels,0,Kansas City Royals,0
+"Wednesday, April 14, 2021",Boston Red Sox,0,Minnesota Twins,0
+"Wednesday, April 14, 2021",Cincinnati Reds,0,San Francisco Giants,0
+"Wednesday, April 14, 2021",San Diego Padres,0,Pittsburgh Pirates,0
+"Wednesday, April 14, 2021",Detroit Tigers,0,Houston Astros,0
+"Wednesday, April 14, 2021",Philadelphia Phillies,0,New York Mets,2
+"Wednesday, April 14, 2021",Texas Rangers,0,Tampa Bay Rays,0
+"Wednesday, April 14, 2021",Miami Marlins,0,Atlanta Braves,0
+"Wednesday, April 14, 2021",Cleveland Indians,0,Chicago White Sox,6
+"Wednesday, April 14, 2021",Colorado Rockies,0,Los Angeles Dodgers,2
+"Thursday, April 15, 2021",Seattle Mariners,0,Baltimore Orioles,0
+"Thursday, April 15, 2021",Boston Red Sox,0,Minnesota Twins,0
+"Thursday, April 15, 2021",Cleveland Indians,0,Chicago White Sox,1
+"Thursday, April 15, 2021",Arizona Diamondbacks,3,Washington Nationals,4
+"Thursday, April 15, 2021",Texas Rangers,0,Tampa Bay Rays,0
+"Thursday, April 15, 2021",Toronto Blue Jays,0,Kansas City Royals,1
+"Thursday, April 15, 2021",Detroit Tigers,0,Oakland Athletics,0
+"Thursday, April 15, 2021",Colorado Rockies,1,Los Angeles Dodgers,0
+"Thursday, April 15, 2021",Miami Marlins,0,Atlanta Braves,0
+"Thursday, April 15, 2021",Seattle Mariners,0,Baltimore Orioles,2
+"Thursday, April 15, 2021",San Diego Padres,4,Pittsburgh Pirates,0
+"Friday, April 16, 2021",Atlanta Braves,0,Chicago Cubs,0
+"Friday, April 16, 2021",Tampa Bay Rays,2,New York Yankees,0
+"Friday, April 16, 2021",St. Louis Cardinals,0,Philadelphia Phillies,0
+"Friday, April 16, 2021",Arizona Diamondbacks,0,Washington Nationals,0
+"Friday, April 16, 2021",Cleveland Indians,0,Cincinnati Reds,0
+"Friday, April 16, 2021",San Francisco Giants,0,Miami Marlins,0
+"Friday, April 16, 2021",Baltimore Orioles,0,Texas Rangers,0
+"Friday, April 16, 2021",Pittsburgh Pirates,0,Milwaukee Brewers,0
+"Friday, April 16, 2021",Minnesota Twins,0,Los Angeles Angels,0
+"Friday, April 16, 2021",Detroit Tigers,0,Oakland Athletics,0
+"Friday, April 16, 2021",Los Angeles Dodgers,0,San Diego Padres,0
+"Friday, April 16, 2021",Houston Astros,0,Seattle Mariners,0
+"Saturday, April 17, 2021",New York Mets,0,Colorado Rockies,3
+"Saturday, April 17, 2021",Tampa Bay Rays,0,New York Yankees,0
+"Saturday, April 17, 2021",Arizona Diamondbacks,0,Washington Nationals,0
+"Saturday, April 17, 2021",Toronto Blue Jays,2,Kansas City Royals,0
+"Saturday, April 17, 2021",Atlanta Braves,0,Chicago Cubs,1
+"Saturday, April 17, 2021",Chicago White Sox,2,Boston Red Sox,0
+"Saturday, April 17, 2021",St. Louis Cardinals,0,Philadelphia Phillies,1
+"Saturday, April 17, 2021",Detroit Tigers,0,Oakland Athletics,1
+"Saturday, April 17, 2021",Cleveland Indians,0,Cincinnati Reds,0
+"Saturday, April 17, 2021",New York Mets,0,Colorado Rockies,0
+"Saturday, April 17, 2021",Toronto Blue Jays,0,Kansas City Royals,0
+"Saturday, April 17, 2021",San Francisco Giants,0,Miami Marlins,1
+"Saturday, April 17, 2021",Baltimore Orioles,0,Texas Rangers,0
+"Saturday, April 17, 2021",Pittsburgh Pirates,0,Milwaukee Brewers,5
+"Saturday, April 17, 2021",Los Angeles Dodgers,0,San Diego Padres,0
+"Saturday, April 17, 2021",Houston Astros,0,Seattle Mariners,0
+"Sunday, April 18, 2021",Tampa Bay Rays,0,New York Yankees,0
+"Sunday, April 18, 2021",St. Louis Cardinals,0,Philadelphia Phillies,1
+"Sunday, April 18, 2021",Arizona Diamondbacks,1,Washington Nationals,0
+"Sunday, April 18, 2021",Chicago White Sox,1,Boston Red Sox,0
+"Sunday, April 18, 2021",Cleveland Indians,1,Cincinnati Reds,0
+"Sunday, April 18, 2021",San Francisco Giants,0,Miami Marlins,0
+"Sunday, April 18, 2021",Toronto Blue Jays,0,Kansas City Royals,0
+"Sunday, April 18, 2021",Pittsburgh Pirates,0,Milwaukee Brewers,2
+"Sunday, April 18, 2021",Baltimore Orioles,0,Texas Rangers,0
+"Sunday, April 18, 2021",New York Mets,0,Colorado Rockies,0
+"Sunday, April 18, 2021",Detroit Tigers,0,Oakland Athletics,0
+"Sunday, April 18, 2021",Los Angeles Dodgers,0,San Diego Padres,0
+"Sunday, April 18, 2021",Houston Astros,0,Seattle Mariners,1
+"Sunday, April 18, 2021",Chicago White Sox,1,Boston Red Sox,0
+"Sunday, April 18, 2021",Atlanta Braves,6,Chicago Cubs,2
+"Monday, April 19, 2021",San Francisco Giants,0,Philadelphia Phillies,0
+"Monday, April 19, 2021",St. Louis Cardinals,0,Washington Nationals,0
+"Monday, April 19, 2021",Tampa Bay Rays,0,Kansas City Royals,0
+"Monday, April 19, 2021",Texas Rangers,0,Los Angeles Angels,0
+"Monday, April 19, 2021",Milwaukee Brewers,0,San Diego Padres,1
+"Monday, April 19, 2021",Los Angeles Dodgers,0,Seattle Mariners,2
+"Monday, April 19, 2021",Chicago White Sox,1,Boston Red Sox,6
+"Tuesday, April 20, 2021",Minnesota Twins,0,Oakland Athletics,0
+"Tuesday, April 20, 2021",Los Angeles Dodgers,0,Seattle Mariners,0
+"Tuesday, April 20, 2021",Chicago White Sox,0,Cleveland Indians,0
+"Tuesday, April 20, 2021",Minnesota Twins,0,Oakland Athletics,0
+"Tuesday, April 20, 2021",Atlanta Braves,0,New York Yankees,0
+"Tuesday, April 20, 2021",Arizona Diamondbacks,3,Cincinnati Reds,0
+"Tuesday, April 20, 2021",Baltimore Orioles,3,Miami Marlins,1
+"Tuesday, April 20, 2021",San Francisco Giants,0,Philadelphia Phillies,0
+"Tuesday, April 20, 2021",St. Louis Cardinals,0,Washington Nationals,0
+"Tuesday, April 20, 2021",Toronto Blue Jays,0,Boston Red Sox,0
+"Tuesday, April 20, 2021",New York Mets,0,Chicago Cubs,0
+"Tuesday, April 20, 2021",Tampa Bay Rays,1,Kansas City Royals,0
+"Tuesday, April 20, 2021",Houston Astros,0,Colorado Rockies,0
+"Tuesday, April 20, 2021",Texas Rangers,0,Los Angeles Angels,0
+"Tuesday, April 20, 2021",Milwaukee Brewers,0,San Diego Padres,0
+"Wednesday, April 21, 2021",San Francisco Giants,0,Philadelphia Phillies,0
+"Wednesday, April 21, 2021",Baltimore Orioles,0,Miami Marlins,0
+"Wednesday, April 21, 2021",Pittsburgh Pirates,0,Detroit Tigers,0
+"Wednesday, April 21, 2021",Houston Astros,0,Colorado Rockies,2
+"Wednesday, April 21, 2021",Minnesota Twins,1,Oakland Athletics,0
+"Wednesday, April 21, 2021",St. Louis Cardinals,0,Washington Nationals,0
+"Wednesday, April 21, 2021",Texas Rangers,0,Los Angeles Angels,1
+"Wednesday, April 21, 2021",Milwaukee Brewers,0,San Diego Padres,0
+"Wednesday, April 21, 2021",Atlanta Braves,0,New York Yankees,0
+"Wednesday, April 21, 2021",Arizona Diamondbacks,0,Cincinnati Reds,0
+"Wednesday, April 21, 2021",Pittsburgh Pirates,1,Detroit Tigers,0
+"Wednesday, April 21, 2021",Toronto Blue Jays,1,Boston Red Sox,0
+"Wednesday, April 21, 2021",New York Mets,1,Chicago Cubs,0
+"Wednesday, April 21, 2021",Tampa Bay Rays,4,Kansas City Royals,0
+"Thursday, April 22, 2021",Pittsburgh Pirates,2,Detroit Tigers,0
+"Thursday, April 22, 2021",New York Yankees,0,Cleveland Indians,3
+"Thursday, April 22, 2021",Seattle Mariners,0,Boston Red Sox,0
+"Thursday, April 22, 2021",New York Mets,0,Chicago Cubs,0
+"Thursday, April 22, 2021",Los Angeles Angels,0,Houston Astros,0
+"Thursday, April 22, 2021",Miami Marlins,0,San Francisco Giants,3
+"Thursday, April 22, 2021",San Diego Padres,0,Los Angeles Dodgers,0
+"Thursday, April 22, 2021",Arizona Diamondbacks,0,Cincinnati Reds,1
+"Friday, April 23, 2021",Milwaukee Brewers,0,Chicago Cubs,6
+"Friday, April 23, 2021",Oakland Athletics,0,Baltimore Orioles,0
+"Friday, April 23, 2021",Seattle Mariners,1,Boston Red Sox,2
+"Friday, April 23, 2021",New York Yankees,0,Cleveland Indians,3
+"Friday, April 23, 2021",Kansas City Royals,0,Detroit Tigers,0
+"Friday, April 23, 2021",Washington Nationals,0,New York Mets,0
+"Friday, April 23, 2021",Toronto Blue Jays,4,Tampa Bay Rays,0
+"Friday, April 23, 2021",Arizona Diamondbacks,0,Atlanta Braves,0
+"Friday, April 23, 2021",Texas Rangers,0,Chicago White Sox,0
+"Friday, April 23, 2021",Los Angeles Angels,0,Houston Astros,0
+"Friday, April 23, 2021",Pittsburgh Pirates,0,Minnesota Twins,0
+"Friday, April 23, 2021",Cincinnati Reds,0,St. Louis Cardinals,0
+"Friday, April 23, 2021",Philadelphia Phillies,0,Colorado Rockies,0
+"Friday, April 23, 2021",Miami Marlins,1,San Francisco Giants,0
+"Friday, April 23, 2021",San Diego Padres,0,Los Angeles Dodgers,1
+"Saturday, April 24, 2021",Seattle Mariners,1,Boston Red Sox,0
+"Saturday, April 24, 2021",Kansas City Royals,0,Detroit Tigers,0
+"Saturday, April 24, 2021",Pittsburgh Pirates,0,Minnesota Twins,0
+"Saturday, April 24, 2021",Cincinnati Reds,0,St. Louis Cardinals,1
+"Saturday, April 24, 2021",Milwaukee Brewers,0,Chicago Cubs,0
+"Saturday, April 24, 2021",Washington Nationals,1,New York Mets,0
+"Saturday, April 24, 2021",Los Angeles Angels,0,Houston Astros,3
+"Saturday, April 24, 2021",New York Yankees,0,Cleveland Indians,0
+"Saturday, April 24, 2021",Toronto Blue Jays,3,Tampa Bay Rays,0
+"Saturday, April 24, 2021",Oakland Athletics,1,Baltimore Orioles,0
+"Saturday, April 24, 2021",Texas Rangers,0,Chicago White Sox,0
+"Saturday, April 24, 2021",Philadelphia Phillies,0,Colorado Rockies,1
+"Saturday, April 24, 2021",Miami Marlins,0,San Francisco Giants,0
+"Saturday, April 24, 2021",San Diego Padres,1,Los Angeles Dodgers,0
+"Sunday, April 25, 2021",Arizona Diamondbacks,5,Atlanta Braves,0
+"Sunday, April 25, 2021",Oakland Athletics,0,Baltimore Orioles,0
+"Sunday, April 25, 2021",Seattle Mariners,1,Boston Red Sox,4
+"Sunday, April 25, 2021",New York Yankees,0,Cleveland Indians,0
+"Sunday, April 25, 2021",Kansas City Royals,0,Detroit Tigers,0
+"Sunday, April 25, 2021",Washington Nationals,0,New York Mets,2
+"Sunday, April 25, 2021",Toronto Blue Jays,0,Tampa Bay Rays,0
+"Sunday, April 25, 2021",Arizona Diamondbacks,0,Atlanta Braves,0
+"Sunday, April 25, 2021",Texas Rangers,0,Chicago White Sox,2
+"Sunday, April 25, 2021",Los Angeles Angels,0,Houston Astros,0
+"Sunday, April 25, 2021",Pittsburgh Pirates,2,Minnesota Twins,1
+"Sunday, April 25, 2021",Cincinnati Reds,0,St. Louis Cardinals,1
+"Sunday, April 25, 2021",Milwaukee Brewers,1,Chicago Cubs,0
+"Sunday, April 25, 2021",Philadelphia Phillies,1,Colorado Rockies,0
+"Sunday, April 25, 2021",Miami Marlins,0,San Francisco Giants,0
+"Sunday, April 25, 2021",San Diego Padres,0,Los Angeles Dodgers,0
+"Monday, April 26, 2021",Kansas City Royals,0,Detroit Tigers,0
+"Monday, April 26, 2021",Minnesota Twins,0,Cleveland Indians,0
+"Monday, April 26, 2021",New York Yankees,0,Baltimore Orioles,1
+"Monday, April 26, 2021",Chicago Cubs,0,Atlanta Braves,4
+"Monday, April 26, 2021",Oakland Athletics,0,Tampa Bay Rays,1
+"Monday, April 26, 2021",Miami Marlins,0,Milwaukee Brewers,0
+"Monday, April 26, 2021",Philadelphia Phillies,0,St. Louis Cardinals,0
+"Monday, April 26, 2021",Los Angeles Angels,1,Texas Rangers,4
+"Monday, April 26, 2021",Seattle Mariners,0,Houston Astros,2
+"Monday, April 26, 2021",Colorado Rockies,0,San Francisco Giants,4
+"Monday, April 26, 2021",Cincinnati Reds,0,Los Angeles Dodgers,0
+"Tuesday, April 27, 2021",Minnesota Twins,2,Cleveland Indians,1
+"Tuesday, April 27, 2021",Kansas City Royals,0,Pittsburgh Pirates,1
+"Tuesday, April 27, 2021",New York Yankees,1,Baltimore Orioles,0
+"Tuesday, April 27, 2021",Washington Nationals,1,Toronto Blue Jays,0
+"Tuesday, April 27, 2021",Boston Red Sox,0,New York Mets,0
+"Tuesday, April 27, 2021",Oakland Athletics,0,Tampa Bay Rays,1
+"Tuesday, April 27, 2021",Chicago Cubs,0,Atlanta Braves,0
+"Tuesday, April 27, 2021",Miami Marlins,1,Milwaukee Brewers,0
+"Tuesday, April 27, 2021",Philadelphia Phillies,1,St. Louis Cardinals,1
+"Tuesday, April 27, 2021",Los Angeles Angels,0,Texas Rangers,1
+"Tuesday, April 27, 2021",Detroit Tigers,1,Chicago White Sox,1
+"Tuesday, April 27, 2021",Seattle Mariners,0,Houston Astros,0
+"Tuesday, April 27, 2021",San Diego Padres,0,Arizona Diamondbacks,0
+"Tuesday, April 27, 2021",Colorado Rockies,2,San Francisco Giants,1
+"Tuesday, April 27, 2021",Cincinnati Reds,1,Los Angeles Dodgers,0
+"Wednesday, April 28, 2021",Minnesota Twins,4,Cleveland Indians,0
+"Wednesday, April 28, 2021",Miami Marlins,0,Milwaukee Brewers,0
+"Wednesday, April 28, 2021",Cincinnati Reds,0,Los Angeles Dodgers,0
+"Wednesday, April 28, 2021",Kansas City Royals,3,Pittsburgh Pirates,0
+"Wednesday, April 28, 2021",Boston Red Sox,0,New York Mets,0
+"Wednesday, April 28, 2021",New York Yankees,0,Baltimore Orioles,0
+"Wednesday, April 28, 2021",Washington Nationals,0,Toronto Blue Jays,0
+"Wednesday, April 28, 2021",Oakland Athletics,0,Tampa Bay Rays,0
+"Wednesday, April 28, 2021",Chicago Cubs,0,Atlanta Braves,4
+"Wednesday, April 28, 2021",Philadelphia Phillies,0,St. Louis Cardinals,0
+"Wednesday, April 28, 2021",Los Angeles Angels,4,Texas Rangers,1
+"Wednesday, April 28, 2021",Seattle Mariners,0,Houston Astros,0
+"Wednesday, April 28, 2021",San Diego Padres,0,Arizona Diamondbacks,0
+"Wednesday, April 28, 2021",Colorado Rockies,0,San Francisco Giants,0
+"Thursday, April 29, 2021",Detroit Tigers,0,Chicago White Sox,0
+"Thursday, April 29, 2021",New York Yankees,0,Baltimore Orioles,1
+"Thursday, April 29, 2021",Oakland Athletics,0,Tampa Bay Rays,1
+"Thursday, April 29, 2021",Philadelphia Phillies,0,St. Louis Cardinals,0
+"Thursday, April 29, 2021",Seattle Mariners,0,Houston Astros,0
+"Thursday, April 29, 2021",Detroit Tigers,0,Chicago White Sox,0
+"Thursday, April 29, 2021",Chicago Cubs,2,Atlanta Braves,0
+"Thursday, April 29, 2021",Los Angeles Dodgers,0,Milwaukee Brewers,0
+"Thursday, April 29, 2021",Boston Red Sox,0,Texas Rangers,0
+"Thursday, April 29, 2021",Colorado Rockies,0,Arizona Diamondbacks,0
+"Friday, April 30, 2021",St. Louis Cardinals,1,Pittsburgh Pirates,0
+"Friday, April 30, 2021",Detroit Tigers,0,New York Yankees,1
+"Friday, April 30, 2021",New York Mets,0,Philadelphia Phillies,0
+"Friday, April 30, 2021",Miami Marlins,0,Washington Nationals,0
+"Friday, April 30, 2021",Chicago Cubs,1,Cincinnati Reds,0
+"Friday, April 30, 2021",Houston Astros,1,Tampa Bay Rays,0
+"Friday, April 30, 2021",Atlanta Braves,0,Toronto Blue Jays,0
+"Friday, April 30, 2021",Boston Red Sox,4,Texas Rangers,0
+"Friday, April 30, 2021",Cleveland Indians,0,Chicago White Sox,0
+"Friday, April 30, 2021",Los Angeles Dodgers,0,Milwaukee Brewers,0
+"Friday, April 30, 2021",Kansas City Royals,0,Minnesota Twins,0
+"Friday, April 30, 2021",Colorado Rockies,1,Arizona Diamondbacks,0
+"Friday, April 30, 2021",Baltimore Orioles,0,Oakland Athletics,0
+"Friday, April 30, 2021",San Francisco Giants,1,San Diego Padres,1
+"Friday, April 30, 2021",Los Angeles Angels,2,Seattle Mariners,1
+"Saturday, May 1, 2021",Detroit Tigers,0,New York Yankees,0
+"Saturday, May 1, 2021",Miami Marlins,0,Washington Nationals,1
+"Saturday, May 1, 2021",Kansas City Royals,2,Minnesota Twins,0
+"Saturday, May 1, 2021",Cleveland Indians,0,Chicago White Sox,0
+"Saturday, May 1, 2021",Baltimore Orioles,0,Oakland Athletics,0
+"Saturday, May 1, 2021",Chicago Cubs,0,Cincinnati Reds,2
+"Saturday, May 1, 2021",Houston Astros,3,Tampa Bay Rays,0
+"Saturday, May 1, 2021",New York Mets,4,Philadelphia Phillies,0
+"Saturday, May 1, 2021",St. Louis Cardinals,4,Pittsburgh Pirates,0
+"Saturday, May 1, 2021",Boston Red Sox,0,Texas Rangers,0
+"Saturday, May 1, 2021",Los Angeles Dodgers,1,Milwaukee Brewers,0
+"Saturday, May 1, 2021",Atlanta Braves,0,Toronto Blue Jays,0
+"Saturday, May 1, 2021",Colorado Rockies,1,Arizona Diamondbacks,0
+"Saturday, May 1, 2021",San Francisco Giants,0,San Diego Padres,3
+"Saturday, May 1, 2021",Los Angeles Angels,3,Seattle Mariners,0
+"Sunday, May 2, 2021",Detroit Tigers,0,New York Yankees,0
+"Sunday, May 2, 2021",St. Louis Cardinals,0,Pittsburgh Pirates,0
+"Sunday, May 2, 2021",Miami Marlins,0,Washington Nationals,0
+"Sunday, May 2, 2021",Atlanta Braves,0,Toronto Blue Jays,0
+"Sunday, May 2, 2021",Chicago Cubs,1,Cincinnati Reds,2
+"Sunday, May 2, 2021",Houston Astros,0,Tampa Bay Rays,0
+"Sunday, May 2, 2021",Cleveland Indians,0,Chicago White Sox,0
+"Sunday, May 2, 2021",Los Angeles Dodgers,5,Milwaukee Brewers,0
+"Sunday, May 2, 2021",Kansas City Royals,0,Minnesota Twins,0
+"Sunday, May 2, 2021",Boston Red Sox,0,Texas Rangers,0
+"Sunday, May 2, 2021",Baltimore Orioles,0,Oakland Athletics,2
+"Sunday, May 2, 2021",Colorado Rockies,0,Arizona Diamondbacks,0
+"Sunday, May 2, 2021",San Francisco Giants,0,San Diego Padres,1
+"Sunday, May 2, 2021",Los Angeles Angels,0,Seattle Mariners,0
+"Sunday, May 2, 2021",New York Mets,0,Philadelphia Phillies,1
+"Monday, May 3, 2021",Milwaukee Brewers,1,Philadelphia Phillies,2
+"Monday, May 3, 2021",Texas Rangers,0,Minnesota Twins,0
+"Monday, May 3, 2021",New York Mets,0,St. Louis Cardinals,1
+"Monday, May 3, 2021",Cleveland Indians,0,Kansas City Royals,0
+"Monday, May 3, 2021",Tampa Bay Rays,0,Los Angeles Angels,0
+"Monday, May 3, 2021",Toronto Blue Jays,0,Oakland Athletics,0
+"Monday, May 3, 2021",Pittsburgh Pirates,0,San Diego Padres,0
+"Monday, May 3, 2021",Baltimore Orioles,0,Seattle Mariners,0
+"Tuesday, May 4, 2021",San Francisco Giants,2,Colorado Rockies,0
+"Tuesday, May 4, 2021",Los Angeles Dodgers,0,Chicago Cubs,4
+"Tuesday, May 4, 2021",San Francisco Giants,10,Colorado Rockies,0
+"Tuesday, May 4, 2021",Chicago White Sox,0,Cincinnati Reds,0
+"Tuesday, May 4, 2021",Arizona Diamondbacks,0,Miami Marlins,3
+"Tuesday, May 4, 2021",Houston Astros,1,New York Yankees,3
+"Tuesday, May 4, 2021",Milwaukee Brewers,1,Philadelphia Phillies,1
+"Tuesday, May 4, 2021",Atlanta Braves,0,Washington Nationals,0
+"Tuesday, May 4, 2021",Detroit Tigers,0,Boston Red Sox,4
+"Tuesday, May 4, 2021",Los Angeles Dodgers,0,Chicago Cubs,0
+"Tuesday, May 4, 2021",Texas Rangers,1,Minnesota Twins,2
+"Tuesday, May 4, 2021",Cleveland Indians,0,Kansas City Royals,0
+"Tuesday, May 4, 2021",Tampa Bay Rays,1,Los Angeles Angels,0
+"Tuesday, May 4, 2021",Toronto Blue Jays,0,Oakland Athletics,0
+"Tuesday, May 4, 2021",Pittsburgh Pirates,0,San Diego Padres,0
+"Tuesday, May 4, 2021",Baltimore Orioles,0,Seattle Mariners,0
+"Wednesday, May 5, 2021",New York Mets,0,St. Louis Cardinals,0
+"Wednesday, May 5, 2021",San Francisco Giants,0,Colorado Rockies,0
+"Wednesday, May 5, 2021",Baltimore Orioles,0,Seattle Mariners,0
+"Wednesday, May 5, 2021",New York Mets,0,St. Louis Cardinals,1
+"Wednesday, May 5, 2021",Arizona Diamondbacks,0,Miami Marlins,2
+"Wednesday, May 5, 2021",Houston Astros,0,New York Yankees,0
+"Wednesday, May 5, 2021",Milwaukee Brewers,0,Philadelphia Phillies,5
+"Wednesday, May 5, 2021",Atlanta Braves,0,Washington Nationals,0
+"Wednesday, May 5, 2021",Detroit Tigers,0,Boston Red Sox,0
+"Wednesday, May 5, 2021",Los Angeles Dodgers,0,Chicago Cubs,0
+"Wednesday, May 5, 2021",Texas Rangers,0,Minnesota Twins,0
+"Wednesday, May 5, 2021",Cleveland Indians,0,Kansas City Royals,0
+"Wednesday, May 5, 2021",Pittsburgh Pirates,0,San Diego Padres,0
+"Wednesday, May 5, 2021",Tampa Bay Rays,0,Los Angeles Angels,0
+"Wednesday, May 5, 2021",Toronto Blue Jays,2,Oakland Athletics,1
+"Wednesday, May 5, 2021",Chicago White Sox,0,Cincinnati Reds,0
+"Thursday, May 6, 2021",Houston Astros,0,New York Yankees,0
+"Thursday, May 6, 2021",Milwaukee Brewers,0,Philadelphia Phillies,0
+"Thursday, May 6, 2021",Detroit Tigers,0,Boston Red Sox,1
+"Thursday, May 6, 2021",Texas Rangers,0,Minnesota Twins,1
+"Thursday, May 6, 2021",New York Mets,0,St. Louis Cardinals,0
+"Thursday, May 6, 2021",Cleveland Indians,0,Kansas City Royals,0
+"Thursday, May 6, 2021",Toronto Blue Jays,0,Oakland Athletics,1
+"Thursday, May 6, 2021",Atlanta Braves,0,Washington Nationals,0
+"Thursday, May 6, 2021",Arizona Diamondbacks,0,Miami Marlins,1
+"Thursday, May 6, 2021",Tampa Bay Rays,0,Los Angeles Angels,0
+"Friday, May 7, 2021",Pittsburgh Pirates,0,Chicago Cubs,1
+"Friday, May 7, 2021",Boston Red Sox,0,Baltimore Orioles,0
+"Friday, May 7, 2021",Washington Nationals,0,New York Yankees,1
+"Friday, May 7, 2021",Cincinnati Reds,0,Cleveland Indians,0
+"Friday, May 7, 2021",Minnesota Twins,1,Detroit Tigers,0
+"Friday, May 7, 2021",Milwaukee Brewers,0,Miami Marlins,1
+"Friday, May 7, 2021",Arizona Diamondbacks,0,New York Mets,0
+"Friday, May 7, 2021",Philadelphia Phillies,6,Atlanta Braves,0
+"Friday, May 7, 2021",Seattle Mariners,0,Texas Rangers,2
+"Friday, May 7, 2021",Toronto Blue Jays,1,Houston Astros,0
+"Friday, May 7, 2021",Chicago White Sox,0,Kansas City Royals,0
+"Friday, May 7, 2021",Colorado Rockies,0,St. Louis Cardinals,0
+"Friday, May 7, 2021",Los Angeles Dodgers,0,Los Angeles Angels,0
+"Friday, May 7, 2021",Tampa Bay Rays,0,Oakland Athletics,0
+"Friday, May 7, 2021",San Diego Padres,0,San Francisco Giants,0
+"Saturday, May 8, 2021",Washington Nationals,0,New York Yankees,0
+"Saturday, May 8, 2021",Colorado Rockies,1,St. Louis Cardinals,3
+"Saturday, May 8, 2021",Pittsburgh Pirates,0,Chicago Cubs,1
+"Saturday, May 8, 2021",San Diego Padres,0,San Francisco Giants,0
+"Saturday, May 8, 2021",Tampa Bay Rays,0,Oakland Athletics,2
+"Saturday, May 8, 2021",Minnesota Twins,0,Detroit Tigers,1
+"Saturday, May 8, 2021",Cincinnati Reds,0,Cleveland Indians,1
+"Saturday, May 8, 2021",Milwaukee Brewers,0,Miami Marlins,1
+"Saturday, May 8, 2021",Boston Red Sox,0,Baltimore Orioles,1
+"Saturday, May 8, 2021",Seattle Mariners,2,Texas Rangers,0
+"Saturday, May 8, 2021",Toronto Blue Jays,0,Houston Astros,0
+"Saturday, May 8, 2021",Chicago White Sox,8,Kansas City Royals,0
+"Saturday, May 8, 2021",Arizona Diamondbacks,0,New York Mets,0
+"Saturday, May 8, 2021",Philadelphia Phillies,2,Atlanta Braves,0
+"Saturday, May 8, 2021",Los Angeles Dodgers,0,Los Angeles Angels,0
+"Sunday, May 9, 2021",Boston Red Sox,0,Baltimore Orioles,1
+"Sunday, May 9, 2021",Washington Nationals,0,New York Yankees,0
+"Sunday, May 9, 2021",Milwaukee Brewers,0,Miami Marlins,0
+"Sunday, May 9, 2021",Arizona Diamondbacks,0,New York Mets,0
+"Sunday, May 9, 2021",Toronto Blue Jays,0,Houston Astros,0
+"Sunday, May 9, 2021",Chicago White Sox,0,Kansas City Royals,1
+"Sunday, May 9, 2021",Colorado Rockies,0,St. Louis Cardinals,0
+"Sunday, May 9, 2021",Pittsburgh Pirates,4,Chicago Cubs,0
+"Sunday, May 9, 2021",Seattle Mariners,0,Texas Rangers,0
+"Sunday, May 9, 2021",San Diego Padres,0,San Francisco Giants,0
+"Sunday, May 9, 2021",Los Angeles Dodgers,0,Los Angeles Angels,0
+"Sunday, May 9, 2021",Tampa Bay Rays,0,Oakland Athletics,0
+"Sunday, May 9, 2021",Philadelphia Phillies,1,Atlanta Braves,4
+"Monday, May 10, 2021",Cincinnati Reds,0,Pittsburgh Pirates,0
+"Monday, May 10, 2021",Boston Red Sox,0,Baltimore Orioles,0
+"Monday, May 10, 2021",Los Angeles Angels,0,Houston Astros,1
+"Monday, May 10, 2021",Miami Marlins,0,Arizona Diamondbacks,1
+"Monday, May 10, 2021",Texas Rangers,0,San Francisco Giants,0
+"Tuesday, May 11, 2021",Texas Rangers,1,San Francisco Giants,2
+"Tuesday, May 11, 2021",Chicago Cubs,0,Cleveland Indians,0
+"Tuesday, May 11, 2021",Cincinnati Reds,0,Pittsburgh Pirates,1
+"Tuesday, May 11, 2021",Philadelphia Phillies,1,Washington Nationals,0
+"Tuesday, May 11, 2021",Oakland Athletics,0,Boston Red Sox,1
+"Tuesday, May 11, 2021",Kansas City Royals,0,Detroit Tigers,0
+"Tuesday, May 11, 2021",Baltimore Orioles,0,New York Mets,0
+"Tuesday, May 11, 2021",New York Yankees,1,Tampa Bay Rays,0
+"Tuesday, May 11, 2021",Toronto Blue Jays,0,Atlanta Braves,1
+"Tuesday, May 11, 2021",St. Louis Cardinals,0,Milwaukee Brewers,0
+"Tuesday, May 11, 2021",Minnesota Twins,0,Chicago White Sox,0
+"Tuesday, May 11, 2021",Los Angeles Angels,0,Houston Astros,0
+"Tuesday, May 11, 2021",San Diego Padres,0,Colorado Rockies,1
+"Tuesday, May 11, 2021",Miami Marlins,0,Arizona Diamondbacks,0
+"Tuesday, May 11, 2021",Seattle Mariners,1,Los Angeles Dodgers,0
+"Wednesday, May 12, 2021",San Diego Padres,0,Colorado Rockies,0
+"Wednesday, May 12, 2021",Chicago Cubs,0,Cleveland Indians,0
+"Wednesday, May 12, 2021",San Diego Padres,0,Colorado Rockies,1
+"Wednesday, May 12, 2021",Philadelphia Phillies,0,Washington Nationals,0
+"Wednesday, May 12, 2021",Oakland Athletics,0,Boston Red Sox,1
+"Wednesday, May 12, 2021",Kansas City Royals,2,Detroit Tigers,0
+"Wednesday, May 12, 2021",New York Yankees,0,Tampa Bay Rays,0
+"Wednesday, May 12, 2021",Toronto Blue Jays,0,Atlanta Braves,0
+"Wednesday, May 12, 2021",St. Louis Cardinals,0,Milwaukee Brewers,0
+"Wednesday, May 12, 2021",Minnesota Twins,1,Chicago White Sox,2
+"Wednesday, May 12, 2021",Los Angeles Angels,0,Houston Astros,3
+"Wednesday, May 12, 2021",Miami Marlins,2,Arizona Diamondbacks,1
+"Wednesday, May 12, 2021",Seattle Mariners,0,Los Angeles Dodgers,0
+"Wednesday, May 12, 2021",Baltimore Orioles,0,New York Mets,0
+"Wednesday, May 12, 2021",Cincinnati Reds,0,Pittsburgh Pirates,0
+"Thursday, May 13, 2021",Philadelphia Phillies,1,Washington Nationals,4
+"Thursday, May 13, 2021",Kansas City Royals,0,Detroit Tigers,0
+"Thursday, May 13, 2021",St. Louis Cardinals,1,Milwaukee Brewers,0
+"Thursday, May 13, 2021",Minnesota Twins,0,Chicago White Sox,1
+"Thursday, May 13, 2021",San Francisco Giants,0,Pittsburgh Pirates,0
+"Thursday, May 13, 2021",Oakland Athletics,0,Boston Red Sox,3
+"Thursday, May 13, 2021",New York Yankees,0,Tampa Bay Rays,2
+"Thursday, May 13, 2021",Texas Rangers,1,Houston Astros,0
+"Thursday, May 13, 2021",Cincinnati Reds,0,Colorado Rockies,3
+"Thursday, May 13, 2021",Miami Marlins,0,Arizona Diamondbacks,0
+"Thursday, May 13, 2021",Cleveland Indians,0,Seattle Mariners,0
+"Thursday, May 13, 2021",Toronto Blue Jays,0,Atlanta Braves,2
+"Friday, May 14, 2021",Kansas City Royals,0,Chicago White Sox,1
+"Friday, May 14, 2021",San Francisco Giants,0,Pittsburgh Pirates,0
+"Friday, May 14, 2021",New York Yankees,1,Baltimore Orioles,1
+"Friday, May 14, 2021",Los Angeles Angels,0,Boston Red Sox,0
+"Friday, May 14, 2021",Chicago Cubs,0,Detroit Tigers,0
+"Friday, May 14, 2021",New York Mets,0,Tampa Bay Rays,0
+"Friday, May 14, 2021",Philadelphia Phillies,0,Toronto Blue Jays,0
+"Friday, May 14, 2021",Kansas City Royals,0,Chicago White Sox,0
+"Friday, May 14, 2021",Texas Rangers,0,Houston Astros,0
+"Friday, May 14, 2021",Atlanta Braves,0,Milwaukee Brewers,0
+"Friday, May 14, 2021",Oakland Athletics,0,Minnesota Twins,0
+"Friday, May 14, 2021",Cincinnati Reds,0,Colorado Rockies,1
+"Friday, May 14, 2021",Washington Nationals,6,Arizona Diamondbacks,0
+"Friday, May 14, 2021",Miami Marlins,0,Los Angeles Dodgers,0
+"Friday, May 14, 2021",St. Louis Cardinals,0,San Diego Padres,1
+"Friday, May 14, 2021",Cleveland Indians,0,Seattle Mariners,1
+"Saturday, May 15, 2021",New York Mets,0,Tampa Bay Rays,1
+"Saturday, May 15, 2021",Oakland Athletics,2,Minnesota Twins,1
+"Saturday, May 15, 2021",Los Angeles Angels,0,Boston Red Sox,1
+"Saturday, May 15, 2021",Chicago Cubs,2,Detroit Tigers,3
+"Saturday, May 15, 2021",San Francisco Giants,3,Pittsburgh Pirates,0
+"Saturday, May 15, 2021",New York Yankees,3,Baltimore Orioles,0
+"Saturday, May 15, 2021",Kansas City Royals,1,Chicago White Sox,0
+"Saturday, May 15, 2021",Texas Rangers,1,Houston Astros,4
+"Saturday, May 15, 2021",Atlanta Braves,2,Milwaukee Brewers,0
+"Saturday, May 15, 2021",Philadelphia Phillies,0,Toronto Blue Jays,1
+"Saturday, May 15, 2021",Washington Nationals,1,Arizona Diamondbacks,3
+"Saturday, May 15, 2021",Cincinnati Reds,0,Colorado Rockies,2
+"Saturday, May 15, 2021",St. Louis Cardinals,0,San Diego Padres,2
+"Saturday, May 15, 2021",Miami Marlins,0,Los Angeles Dodgers,0
+"Saturday, May 15, 2021",Cleveland Indians,0,Seattle Mariners,1
+"Sunday, May 16, 2021",New York Yankees,4,Baltimore Orioles,2
+"Sunday, May 16, 2021",San Francisco Giants,1,Pittsburgh Pirates,0
+"Sunday, May 16, 2021",Philadelphia Phillies,0,Toronto Blue Jays,2
+"Sunday, May 16, 2021",Los Angeles Angels,0,Boston Red Sox,0
+"Sunday, May 16, 2021",Chicago Cubs,0,Detroit Tigers,0
+"Sunday, May 16, 2021",New York Mets,0,Tampa Bay Rays,0
+"Sunday, May 16, 2021",Kansas City Royals,1,Chicago White Sox,0
+"Sunday, May 16, 2021",Texas Rangers,0,Houston Astros,1
+"Sunday, May 16, 2021",Atlanta Braves,0,Milwaukee Brewers,0
+"Sunday, May 16, 2021",Oakland Athletics,0,Minnesota Twins,0
+"Sunday, May 16, 2021",Cincinnati Reds,0,Colorado Rockies,0
+"Sunday, May 16, 2021",Washington Nationals,0,Arizona Diamondbacks,0
+"Sunday, May 16, 2021",Miami Marlins,0,Los Angeles Dodgers,0
+"Sunday, May 16, 2021",Cleveland Indians,0,Seattle Mariners,1
+"Sunday, May 16, 2021",St. Louis Cardinals,2,San Diego Padres,0
