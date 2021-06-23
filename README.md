@@ -13,10 +13,10 @@ Using Python and BeautifulSoup, I am able to webscrape baseball-reference.com to
 2. The scraper then loops through the game URLs to pull the team data and 1st inning scores.
 
 ## Transform
-Within the Jupyter Notebook, utlizing the .append function in order to concatenate the new dataframe containing the most recent 1st inning scores data to the existing dataframe for historic 1st inning score data.
+Within the Jupyter Notebook, utlizing the `.append` function in order to concatenate the new dataframe containing the most recent 1st inning scores data to the existing dataframe for historic 1st inning score data.
 
 ## Load
-Loading all of the date 1st inning score data to a CSV document using 'to_csv'.
+Loading all of the date 1st inning score data to a CSV document using `to_csv` .
 
 
 VBA ANALYSIS
